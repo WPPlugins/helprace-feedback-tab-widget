@@ -1,0 +1,24 @@
+#subdomaintwo{
+ -webkit-appearance:none!important;
+ color:#000;
+ font-weight:bold;
+ text-align:left;
+ width:122px;
+ margin:0 0 0 -7px;
+ background:#fff;
+ border-left:none !important;
+ padding-left:0;
+}
+
+#hfbw_name{
+ padding-right:0;	
+}
+
+#hfbw_name:focus, #subdomaintwo{
+ box-shadow:none;
+ border:1px solid #ddd;
+}
+
+#hfbw_display{
+ width:150px;
+}
